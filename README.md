@@ -1,5 +1,7 @@
 # Jasmine JS-Reporter
 
+(Modified with gross hack to work with jasmine 2.0.0 - please use detro/jasmine-jsreporter instead)
+
 This is a Jasmine Reporter, designed to simplify the extraction of test results from the Page.
 It's tailored with _Test Reporting Automation_ in mind.
 
